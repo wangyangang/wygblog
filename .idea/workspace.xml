@@ -91,7 +91,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
+            <state relative-caret-position="53">
               <caret line="42" column="69" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
@@ -262,12 +262,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568828855694</updated>
-      <workItem from="1568828876482" duration="12001000" />
+      <workItem from="1568828876482" duration="12783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12001000" />
+    <option name="totallyTimeSpent" value="12783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -279,7 +279,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.3299363" />
       <window_info anchor="bottom" id="Python Console" weight="0.8101911" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32611465" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.7719745" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -444,7 +444,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="53">
           <caret line="42" column="69" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
